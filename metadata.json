@@ -1,0 +1,8 @@
+{
+  "name": "Global Translator",
+  "description": "A high-performance, cross-platform translation app with support for Dravidian, East Asian, European, and Middle Eastern languages, featuring AI-powered language detection, history tracking, and high-fidelity text-to-speech.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
